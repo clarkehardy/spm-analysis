@@ -1,0 +1,3 @@
+[submodule "struck-data-processing"]
+	path = struck-data-processing
+	url = git@github.com:clarkehardy/struck-data-processing.git
